@@ -1,0 +1,24 @@
+.page-title {
+  display: flex;
+  justify-content: center !important;
+  font-size: 2rem;
+  margin-top: 10px;
+}
+.page-title h1 {
+  text-align: center;
+}
+.form-container {
+  width: 600px;
+  padding-top: 50px;
+  margin: auto;
+}
+
+.ui.teal.button:focus,
+.ui.teal.buttons .button:focus {
+  background-color: #00b5ad;
+}
+
+.menu-welcome {
+  color: #026317 !important;
+  font-weight: bold !important;
+}
